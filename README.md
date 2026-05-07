@@ -26,21 +26,11 @@ Developed an interactive analytics dashboard that helps monitor FOD incidents, a
 
 
 FOD-Safety-Analytics/
-│
-├── data/
-│   └── fod_dataset.csv
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── dashboard/
-│   └── fod_dashboard.twbx
-│
-├── images/
-│   |── dashboard1.png
-│   
-│
-└── README.md
+- **data/** → Contains FOD incident dataset files  
+- **notebooks/** → Python notebooks for data cleaning and analysis  
+- **dashboard/** → Tableau dashboard files  
+- **images/** → Dashboard screenshots and visualizations  
+- **README.md** → Project documentation and overview
 
 
 ---
