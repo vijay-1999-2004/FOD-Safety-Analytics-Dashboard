@@ -72,9 +72,6 @@ FOD-Safety-Analytics/
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Dashboard 1](images/dashboard1.png)
 
 
 
